@@ -1,3 +1,4 @@
 # The-Coffee-Code
-Fumbling over the phone, bad reception, and the pressure of a long line can result in your customers spending less at your restaurant. This application is designed to help customers to book their table
-in cafe whenever they want and comfortably place orders sitting in the cafe itself.
+Building an online presence is just like tapping your customers on the shoulder and telling them all about your great restaurant. And when you add to the table an easy-to-use feature, like a customer-friendly online ordering system for restaurants, then you've just skyrocketed your chances of boosting sales and increasing your profit margin. This is the basic idea of my application - 'The Coffee Code'.
+
+Fumbling over the phone, bad reception, and the pressure of a long line can result in your customers spending less at your restaurant. This would help customers to book table whenever they want and conveniently place orders. Thus, this would in saving the precious time of our customers and place their orders whenever & from wherever they want according to their convenience.
